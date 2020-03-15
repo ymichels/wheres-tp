@@ -1,0 +1,16 @@
+.WelcomePage {
+    text-align: center;
+    
+}
+.title{
+    margin: 60% 0 0 0;        
+}
+.image-div{
+    margin: 10%;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: lightgray;
+}
+.Img{
+    background-image: url(../../images/TpRoll.jpg);
+}
